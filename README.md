@@ -1,4 +1,4 @@
-# city-desk
+# City Desk
 This is a simple project created to learn Django
 
 # Functionalities
@@ -7,6 +7,11 @@ This is a simple project created to learn Django
 - Custom User model has been implemented for citizen
 - Decorators are used for role based views
 - Used django built-in authentication system for login, logout, sign-up and password reset
+
+
+## Built With
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,html,css,javascript,sqlite&perline=6)](https://skillicons.dev)
 
 # Installation
 Clone the repository and follow below steps...
