@@ -7,6 +7,7 @@
   
 
   <p align="center">
+    Web Application for Citizen & Police to manage raised requests in the portal. This application is built using Django Web Application Framework.
     <br />
     <br />
     <a href="http://citydesk.herokuapp.com/">Demo</a> · 
@@ -17,12 +18,12 @@
   </p>
 </div>
 
-# Functionalities
-- Citizen can raise Compliants, NOC Requests, Appointment Requests
-- Police can view latest requests in the dashboard
-- Custom User model has been implemented for citizen
-- Decorators are used for role based views
-- Used django built-in authentication system for login, logout, sign-up and password reset
+# Features
+- Citizen can raise Compliants, NOC Requests and Appointment Requests in the portal.
+- Police can view latest requests in the dashboard and contact the users.
+- Custom Django User model has been implemented in the application.
+- Role based access views to url's and pages were implemented with Python Decorators.
+- Used django authentication system for login, logout, sign-up and password reset
 
 
 ## Built With
